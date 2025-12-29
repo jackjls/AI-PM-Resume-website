@@ -19,19 +19,43 @@
 
 ## 📸 预览
 
-### 首页 Hero 区域
-- 左侧文字介绍 + 右侧个人形象照
-- 打字机效果循环展示角色
-- 五维能力雷达图动画
+### 🏠 首页 Hero 区域
 
-### 功能模块
-| 模块 | 描述 |
-|------|------|
-| 🎓 教育经历 | 学历信息、荣誉成就、核心课程、学术项目 |
-| 💼 工作经历 | 交互式时间轴，玻璃拟态卡片 |
-| 🤖 AI 项目展示 | Bento Box 网格布局，悬停发光效果 |
-| 📦 开源项目 | GitHub 统计 + 项目卡片 |
-| 📬 联系我 | 联系方式、社交媒体、消息表单 |
+![Hero Section](./public/screenshots/hero.png)
+
+> 左侧文字介绍 + 右侧个人形象照，打字机效果循环展示角色，五维能力雷达图动画
+
+---
+
+### 🎓 教育经历
+
+![Education Section](./public/screenshots/education.png)
+
+> 学历信息、荣誉成就、核心课程、学术项目
+
+---
+
+### 💼 工作经历
+
+![Experience Section](./public/screenshots/experience.png)
+
+> 交互式时间轴，玻璃拟态卡片设计
+
+---
+
+### 🤖 AI 项目展示
+
+![Projects Section](./public/screenshots/projects.png)
+
+> Bento Box 网格布局，悬停发光效果
+
+---
+
+### 📬 联系我
+
+![Contact Section](./public/screenshots/contact.png)
+
+> 联系方式、社交媒体、消息表单
 
 ## 🚀 快速开始
 
